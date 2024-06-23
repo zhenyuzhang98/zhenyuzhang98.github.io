@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+I am Zhenyu Zhang from PKU.
 
 A data-driven personal website
 ======
