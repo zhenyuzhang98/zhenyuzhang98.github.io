@@ -41,9 +41,6 @@
       {% if author.arxiv %}
         <li><a href="{{ author.arxiv }}"><i class="ai ai-arxiv ai-fw icon-pad-right"></i>arXiv</a></li>
       {% endif %}      
-      {% if author.inspire %}
-        <li><a href="{{ author.inspire }}"><i class="ai ai-inspire ai-fw icon-pad-right"></i>INSPIRE HEP</a></li>
-      {% endif %}
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar icon-pad-right"></i>Google Scholar</a></li>
       {% endif %}
@@ -62,7 +59,10 @@
       {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate icon-pad-right" aria-hidden="true"></i>ResearchGate</a></li>
       {% endif %}
-
+      {% if author.inspire %}
+        <li><a href="{{ author.inspire }}"><i class="ai ai-inspire ai-fw icon-pad-right"></i>INSPIRE HEP</a></li>
+      {% endif %}
+      
       <!-- Font Awesome icons / Repositories and software development -->
       {% if author.bitbucket %}
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-fw fa-bitbucket icon-pad-right" aria-hidden="true"></i>Bitbucket</a></li>
