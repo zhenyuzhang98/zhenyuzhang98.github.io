@@ -22,22 +22,23 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Zhenyu Zhang"
+#  pronouns         : # example: "she/her"  
+#  bio              : "Short biography for the left-hand sidebar"
+#  location         : "Earth"
+#  employer         : "Red Brick University"
+#  uri              : # URL
+  email            : "jerryzhang98@hotmail.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arXiv            : "https://arxiv.org/a/zhang_z_18.html"
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+#  impactstory      : # URL
+  orcid            : "https://orcid.org/0000-0003-0869-4601"
+  INSPIREHEP       : "https://inspirehep.net/authors/1744398?ui-citation-summary=true"
+#  semantic         : # URL
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#  researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
