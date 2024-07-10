@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.inspire %}
-  <div class="wordwrap">You can also find my articles on <a href="{{https://inspirehep.net/authors/1744398?ui-citation-summary=true}}">my INSPIRE profile</a>.</div>
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.inspire}}">my INSPIRE profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
