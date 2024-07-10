@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{[site.author.googlescholar](https://inspirehep.net/authors/1744398?ui-citation-summary=true)}}">my INSPIRE profile</a>.</div>
+{% if site.author.inspire %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.inspire}}">my INSPIRE profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
