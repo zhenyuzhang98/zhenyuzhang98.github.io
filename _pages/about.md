@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate from school of physics, Peking university (PKU). My research interests are black hole and cosmology, including but not limited to black hole image, primordial black hole, large-scale structure
+I am a PhD candidate from school of physics, Peking university (PKU). My research interests are relativistic astrophysics and cosmology, including but not limited to black hole imaging, accretion disks, relativistic jet launching mechanisms, particle dynamics near black holes, primordial black holes, inflation models in early universe, large-scale structure cosmology, as well as the application of machine learning in those directions.
 
 Education
 ======
-* Ph. D. in Theoretical Physics, Physics Department, Peking University 2025 (expected)
-* B.S. in GitHub, GitHub University, 2012
+* Ph. D. in Theoretical Physics, School of Physics, Peking University (PKU), 2025 (expected)
+* B.S. in Physics, School of Physics and Astronomy, Sun Yat-Sen University (SYSU), 2012
 
 Site-wide configuration
 ------
