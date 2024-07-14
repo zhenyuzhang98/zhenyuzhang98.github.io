@@ -15,5 +15,5 @@ My research interests are relativistic astrophysics and cosmology, including but
 
 Education
 ======
-* Ph. D. in Theoretical Physics, School of Physics, Peking University (PKU), 2025 (expected) 
-* B.S. in Physics, School of Physics and Astronomy, Sun Yat-Sen University (SYSU), 2020 
+* 2020 - 2025 (expected) <br> Ph. D. in Theoretical Physics, School of Physics, Peking University (PKU)
+* 2016 - 2020 <br> B.S. in Physics, School of Physics and Astronomy, Sun Yat-Sen University (SYSU)
