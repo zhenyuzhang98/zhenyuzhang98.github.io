@@ -14,5 +14,5 @@ redirect_from:
 
 Education
 ======
-* <font face="Helvetica" size=4> 2020 - 2025 (expected) <br> Ph. D. in Theoretical Physics, School of Physics, Peking University (PKU)
-* 2016 - 2020 <br> B.S. in Physics, School of Physics and Astronomy, Sun Yat-Sen University (SYSU)</font>
+* <font face="Helvetica" size=4> 2020 - 2025 (expected) <br> Ph. D. in Theoretical Physics, School of Physics, Peking University (PKU)</font>
+* <font face="Helvetica" size=4> 2016 - 2020 <br> B.S. in Physics, School of Physics and Astronomy, Sun Yat-Sen University (SYSU)</font>
