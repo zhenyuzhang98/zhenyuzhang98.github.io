@@ -11,9 +11,8 @@ redirect_from:
 <p>Welcome to Zhenyu Zhang’s homepage.</p>
 <p>I am a PhD candidate from school of physics, Peking university (PKU). </p>
 <p>My research interests are relativistic astrophysics and cosmology, including but not limited to black hole imaging, accretion disks, relativistic jet launching mechanisms, particle dynamics near black holes, primordial black holes, inflation models in early universe, large-scale structure cosmology, as well as the application of machine learning in those directions.</p></font>
-<br>
 
 Education
 ======
-* 2020 - 2025 (expected) <br> Ph. D. in Theoretical Physics, School of Physics, Peking University (PKU)
-* 2016 - 2020 <br> B.S. in Physics, School of Physics and Astronomy, Sun Yat-Sen University (SYSU)
+* <font face="Helvetica" size=4> 2020 - 2025 (expected) <br> Ph. D. in Theoretical Physics, School of Physics, Peking University (PKU)
+* 2016 - 2020 <br> B.S. in Physics, School of Physics and Astronomy, Sun Yat-Sen University (SYSU)</font>
