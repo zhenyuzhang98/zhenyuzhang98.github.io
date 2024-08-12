@@ -12,7 +12,7 @@ author_profile: true
 --------------
 - Aug 12 
 
-	- Learned the basics of using PKU's supercomputing platform.
+	- Learned the basics of using [PKU's supercomputing platform](https://hpc.pku.edu.cn/ug/).
 
 	- Discussed high-order polarized imaging of thin disk with [Yu Song](https://inspirehep.net/authors/2810992?ui-citation-summary=true). The main references are 1602.03184, 2206.13744 and 2407.10431.
 
