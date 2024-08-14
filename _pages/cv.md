@@ -14,7 +14,7 @@ Education
 * Ph.D. in Theoretical Physics, Peking University, June 2025 (expected)
 * B.S. in Physics, Sun Yat-Sen University, June 2020
 
-Work experience
+Research experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -30,6 +30,12 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
+
+Teaching experience
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Skills
 ======
@@ -51,13 +57,5 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+ 
