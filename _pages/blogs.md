@@ -10,6 +10,12 @@ author_profile: true
 
 2024
 --------------
+- Aug 15
+
+	- Reorganized the code about [thin disk imaging](https://zhenyuzhang98.github.io/files/RTthindisk.pdf).
+
+	- Learned something about quasinormal modes. Basically, it involves setting the ingoing and outgoing boundary conditions at the black hole horizon and at infinity, and solving the equations of motion for the perturbation field in the curved spacetime. This approach is feasible because when a field does not have a backreaction on the background, the perturbation in the black hole spacetime simplifies to the propagation of the field in the black hole background. The observational significance is that the QNM will dominate the ringdown phase of the gravitational wave signal. The ringdown refers to the process of the BH gradually become stable after the merger. 
+
 - Aug 14
 
 	- Attended the group meeting of [Prof. Bin Chen](https://inspirehep.net/authors/1013901?ui-citation-summary=true). The speaker of this time was [Zezhou Hu](https://inspirehep.net/authors/2721583?ui-citation-summary=true). He talked about Carrollian superstring theory. I could barely understand a word of it.
