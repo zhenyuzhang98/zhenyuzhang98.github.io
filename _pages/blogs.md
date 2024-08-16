@@ -10,6 +10,10 @@ author_profile: true
 
 2024
 --------------
+- Aug 16
+
+	- Attended the group meeting of [Prof. Shi Pi](https://stonepi.github.io). Discussed the calculation of primordial black hole abundance with [Ao Wang](https://inspirehep.net/authors/2718599?ui-citation-summary=true). He believes that both the effects of a broad power spectrum and the shape parameter q can be incorporated into the Press-Schechter method. Actually, I had considered a similar issue last year, so I expressed pessimism. I roughly learned from Wencong Hong how to obtain the sensitivity curve from LIGO gravitational wave data. I also roughly learned from Prof. Pi how weak lensing constrains the abundance of primordial black holes.
+
 - Aug 15
 
 	- Reorganized the code about [thin disk imaging](https://zhenyuzhang98.github.io/files/RTthindisk.pdf).
