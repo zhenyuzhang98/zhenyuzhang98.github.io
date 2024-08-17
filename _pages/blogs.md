@@ -10,6 +10,10 @@ author_profile: true
 
 2024
 --------------
+- Aug 17
+
+	- Struggled with a SIGW problem. Based on my derivation, Eq. (3) in [2306.17149](https://arxiv.org/pdf/2306.17149) and Eq. (83) in [2404.06151](https://arxiv.org/pdf/2404.06151) differ by a factor of 2, but I can't find where I went wrong.
+
 - Aug 16
 
 	- Attended the group meeting of [Prof. Shi Pi](https://stonepi.github.io). Discussed the calculation of primordial black hole abundance with [Ao Wang](https://inspirehep.net/authors/2718599?ui-citation-summary=true). He believes that both the effects of a broad power spectrum and the shape parameter q can be incorporated into the Press-Schechter method. Actually, I had considered a similar issue last year, so I expressed pessimism. I roughly learned from Wencong Hong how to obtain the sensitivity curve from LIGO gravitational wave data. I also roughly learned from Prof. Pi how weak lensing constrains the abundance of primordial black holes.
@@ -24,7 +28,7 @@ author_profile: true
 
 	- Attended the group meeting of [Prof. Bin Chen](https://inspirehep.net/authors/1013901?ui-citation-summary=true). The speaker of this time was [Zezhou Hu](https://inspirehep.net/authors/2721583?ui-citation-summary=true). He talked about Carrollian superstring theory. I could barely understand a word of it.
 
-	- Read an interesting paper about autocorrelation, [2304.03826](https://inspirehep.net/literature/2650195). The authors selected a circle in the black hole movie that approximates the location of photon ring (as defined by Eq.(1)(2)) and calculated the 1+1 dimensional autocorrelation along this line. They claimed that the pattern speed can be obtained through this 2D autocorrelation, as detailed in the last paragraph of Sec. 2.2. Subsequently, they validated the method's accuracy using some synthetic light sources. Finally, they applied it to the GRMHD model library of Sgr A\*.  
+	- Read an interesting paper about autocorrelation, [2304.03826](https://inspirehep.net/literature/2650195). The authors selected a circle in the black hole movie that approximates the location of photon ring (as defined by Eq. (1) (2)) and calculated the 1+1 dimensional autocorrelation along this line. They claimed that the pattern speed can be obtained through this 2D autocorrelation, as detailed in the last paragraph of Sec. 2.2. Subsequently, they validated the method's accuracy using some synthetic light sources. Finally, they applied it to the GRMHD model library of Sgr A\*.  
 
 - Aug 13
 

@@ -17,6 +17,9 @@ main:
   
   - title: "Blogs"
     url: /blogs/
-    
+  
+  - title: "Beyond"
+    url: /beyond/
+
     #  - title: "Guide"
     #url: /markdown/
