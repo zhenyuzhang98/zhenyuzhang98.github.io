@@ -22,7 +22,7 @@ Hobbies
 Personality
 -------------
 
-[Gossip](http://zhenyuzhang.github.io/jottings/gossip)
+Gossip
 ----------
 
 - Aug 18
@@ -32,3 +32,10 @@ Some alumni who share my supervisor discussed our academic lineage in a Wechat g
 They said it's like: Peng Huanwu - Zhou Guangzhao - Wu Ke - Chen Bin - us.
 
 And I found that the PhD advisor of Peng Huanwu is Max Born.
+
+- Aug 16
+
+Prof. Pi said, for those who does numerical simulation, a PRL costs about 340k.
+
+Another impressive statement was that, regarding the project that a student look down to, he said, "do you have to go for the Nobel Prize for every paper?"
+ 

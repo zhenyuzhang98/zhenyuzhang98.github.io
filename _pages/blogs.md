@@ -10,6 +10,10 @@ author_profile: true
 
 2024
 --------------
+- Aug 19, Mon
+
+	- Discussed high-order polarized imaging of thin disk with [Yu Song](https://inspirehep.net/authors/2810992?ui-citation-summary=true).
+
 - Aug 18, Sun
 
 	- Revised the paper [2407.14897](https://inspirehep.net/literature/2810002) and submitted the new version to arXiv.
