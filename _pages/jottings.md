@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Beyond academia"
-permalink: /beyond/
+title: "Jottings"
+permalink: /jottings/
 author_profile: true
 ---
 
@@ -22,12 +22,12 @@ Hobbies
 Personality
 -------------
 
-Gossip
+[Gossip](http://zhenyuzhang.github.io/jottings/gossip)
 ----------
 
 - Aug 18
 
-Some seniors in the Wechat group discussed our academic lineage. 
+Some alumni who share my supervisor discussed our academic lineage in a Wechat group. 
 
 They said it's like: Peng Huanwu - Zhou Guangzhao - Wu Ke - Chen Bin - us.
 
