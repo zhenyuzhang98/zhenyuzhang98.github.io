@@ -35,7 +35,5 @@ And I found that the PhD advisor of Peng Huanwu is Max Born.
 
 - Aug 16
 
-Prof. Pi said, for those who does numerical simulation, a PRL costs about 340k.
-
-Another impressive statement was that, regarding the project that a student look down to, he said, "do you have to go for the Nobel Prize for every paper?"
+An impressive statement. Regarding the project that a student look down to, Prof. Shi Pi said, "do you have to go for the Nobel Prize for every paper?"
  

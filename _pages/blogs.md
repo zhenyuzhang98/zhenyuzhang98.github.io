@@ -10,6 +10,10 @@ author_profile: true
 
 2024
 --------------
+- Aug 20, Tue
+
+	- Attended the group meeting of [Prof. Bin Chen](https://inspirehep.net/authors/1013901?ui-citation-summary=true). The speaker of this time was Zhenbang Gu. He talked about some mathematical physics. I could barely understand a word of it.
+
 - Aug 19, Mon
 
 	- Discussed high-order polarized imaging of thin disk with [Yu Song](https://inspirehep.net/authors/2810992?ui-citation-summary=true).
@@ -34,7 +38,7 @@ author_profile: true
 
 - Aug 14, Wed
 
-	- Attended the group meeting of [Prof. Bin Chen](https://inspirehep.net/authors/1013901?ui-citation-summary=true). The speaker of this time was [Zezhou Hu](https://inspirehep.net/authors/2721583?ui-citation-summary=true). He talked about Carrollian superstring theory. I could barely understand a word of it.
+	- Attended the group meeting of [Prof. Bin Chen](https://inspirehep.net/authors/1013901?ui-citation-summary=true). The speaker of this time was [Zezhou Hu](https://inspirehep.net/authors/2721583?ui-citation-summary=true). He talked about Carrollian superstring theory.
 
 	- Read an interesting paper about autocorrelation, [2304.03826](https://inspirehep.net/literature/2650195). The authors selected a circle in the black hole movie that approximates the location of photon ring (as defined by Eq. (1) (2)) and calculated the 1+1 dimensional autocorrelation along this line. They claimed that the pattern speed can be obtained through this 2D autocorrelation, as detailed in the last paragraph of Sec. 2.2. Subsequently, they validated the method's accuracy using some synthetic light sources. Finally, they applied it to the GRMHD model library of Sgr A\*.  
 
