@@ -10,6 +10,10 @@ author_profile: true
 
 2024
 --------------
+- Aug 21, Wedi
+
+	- Attempted to incorporate non-Gaussianity into the SIGW code. I found that the adaptive Monte Carlo method can be used to compute the quadruple integral.
+
 - Aug 20, Tue
 
 	- Attended the group meeting of [Prof. Bin Chen](https://inspirehep.net/authors/1013901?ui-citation-summary=true). The speaker of this time was Zhenbang Gu. He talked about some mathematical physics. I could barely understand a word of it.
