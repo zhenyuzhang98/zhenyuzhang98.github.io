@@ -10,7 +10,11 @@ author_profile: true
 
 2024
 --------------
-- Aug 21, Wedi
+- Aug 22, Thu
+
+	- Struggled with the quadruple integral.
+
+- Aug 21, Wed
 
 	- Attempted to incorporate non-Gaussianity into the SIGW code. I found that the adaptive Monte Carlo method can be used to compute the quadruple integral.
 
