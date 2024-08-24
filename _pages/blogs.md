@@ -10,6 +10,10 @@ author_profile: true
 
 2024
 --------------
+- Aug 23, Fri
+
+	- Attended the group meeting of [Prof. Shi Pi](https://stonepi.github.io).
+
 - Aug 22, Thu
 
 	- Struggled with the quadruple integral.
