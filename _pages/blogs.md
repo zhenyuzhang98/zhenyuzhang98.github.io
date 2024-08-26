@@ -10,6 +10,18 @@ author_profile: true
 
 2024
 --------------
+- Aug 26, Mon
+
+	- Visited TDLI, SJTU. I learned a lot from [Prof. Yosuke Mizuno](https://web.tdli.sjtu.edu.cn/mizuno/). He is a knowledgeable person with a passion for academia, and he is very hospitable. We also discussed with [Prof. Yosuke Mizuno](https://web.tdli.sjtu.edu.cn/mizuno/) and his group members. I talked about our previous papers and now the preliminary results of autocorrelation. There are still many open questions about the image of Sgr A\*.     
+
+- Aug 25, Sun
+
+	- Arrived Shanghai. Finished the autocorrelation code and partly reproduce the result of [2304.03826](https://inspirehep.net/literature/2650195).
+
+- Aug 24, Sat
+
+	- Attempted to numerical calculate autocorrelation function using Python. 
+
 - Aug 23, Fri
 
 	- Attended the group meeting of [Prof. Shi Pi](https://stonepi.github.io).
