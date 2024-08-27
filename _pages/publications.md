@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected papers"
 permalink: /publications/
 author_profile: true
 ---
@@ -8,9 +8,6 @@ author_profile: true
 {% if site.author.inspire %}
   <div class="wordwrap">You can find a full list of my papers on <a href="{{site.author.inspire}}">my INSPIRE profile</a>.</div>
 {% endif %}
-
-Selected papers
-===============
 
 {% include base_path %}
 

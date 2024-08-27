@@ -12,7 +12,7 @@ author_profile: true
 --------------
 - Aug 26, Mon
 
-	- Visited TDLI, SJTU. I learned a lot from [Prof. Yosuke Mizuno](https://web.tdli.sjtu.edu.cn/mizuno/). He is a knowledgeable person with a passion for academia, and he is very hospitable. We also discussed with [Prof. Yosuke Mizuno](https://web.tdli.sjtu.edu.cn/mizuno/) and his group members. I talked about our previous papers and now the preliminary results of autocorrelation. There are still many open questions about the image of Sgr A\*.     
+	- Visited TDLI, SJTU. Learned a lot from [Prof. Yosuke Mizuno](https://web.tdli.sjtu.edu.cn/mizuno/). He is a knowledgeable person with a passion for academia, and he is very hospitable. We also discussed with [Prof. Yosuke Mizuno](https://web.tdli.sjtu.edu.cn/mizuno/) and his group members. I talked about our previous papers and now the preliminary results of autocorrelation. There are still many open questions about the image of Sgr A\*.     
 
 - Aug 25, Sun
 
