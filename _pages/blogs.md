@@ -10,6 +10,10 @@ author_profile: true
 
 2024
 --------------
+- Aug 27, Tue
+
+	- Worked and discussed at TDLI, SJTU. [Prof. Minyong Guo](https://inspirehep.net/authors/1423019?ui-citation-summary=true) gave a talk about [Coport](https://arxiv.org/abs/2407.10431). They expressed some concern about the case of opitically thick, because the affine paramter need to be divided smaller in the emisson region. After that, we had a dinner with [Prof. Yosuke Mizuno](https://web.tdli.sjtu.edu.cn/mizuno/).
+
 - Aug 26, Mon
 
 	- Visited TDLI, SJTU. Learned a lot from [Prof. Yosuke Mizuno](https://web.tdli.sjtu.edu.cn/mizuno/). He is a knowledgeable person with a passion for academia, and he is very hospitable. We also discussed with [Prof. Yosuke Mizuno](https://web.tdli.sjtu.edu.cn/mizuno/) and his group members. I talked about our previous papers and now the preliminary results of autocorrelation. There are still many open questions about the image of Sgr A\*.     
