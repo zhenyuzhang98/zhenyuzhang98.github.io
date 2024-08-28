@@ -10,6 +10,10 @@ author_profile: true
 
 2024
 --------------
+- Aug 28, Wed
+
+	- Discussed with [Prof. Yosuke Mizuno](https://web.tdli.sjtu.edu.cn/mizuno/) and [Prof. Minyong Guo](https://inspirehep.net/authors/1423019?ui-citation-summary=true) about the autocorrelation project. We proposed some specific light sources to calculate.
+
 - Aug 27, Tue
 
 	- Worked and discussed at TDLI, SJTU. [Prof. Minyong Guo](https://inspirehep.net/authors/1423019?ui-citation-summary=true) gave a talk about [Coport](https://arxiv.org/abs/2407.10431). They expressed some concern about the case of opitically thick, because the affine paramter need to be divided smaller in the emisson region. After that, we had a dinner with [Prof. Yosuke Mizuno](https://web.tdli.sjtu.edu.cn/mizuno/).
