@@ -10,9 +10,13 @@ author_profile: true
 
 2024
 --------------
+- Aug 30, Fri
+
+	- Attended the group meeting of [Prof. Shi Pi](https://stonepi.github.io).
+
 - Aug 29, Thu
 
-	- Went back to Beijing.
+	- Went back to Beijing. Tried again to incorporate non-Gaussianity into the SIGW code.
 
 - Aug 28, Wed
 
