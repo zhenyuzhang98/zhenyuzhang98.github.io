@@ -10,9 +10,13 @@ author_profile: true
 
 2024
 --------------
+- Aug 29, Thu
+
+	- Went back to Beijing.
+
 - Aug 28, Wed
 
-	- Discussed with [Prof. Yosuke Mizuno](https://web.tdli.sjtu.edu.cn/mizuno/) and [Prof. Minyong Guo](https://inspirehep.net/authors/1423019?ui-citation-summary=true) about the autocorrelation project. We proposed some specific light sources to calculate.
+	- Discussed with [Prof. Yosuke Mizuno](https://web.tdli.sjtu.edu.cn/mizuno/) and [Prof. Minyong Guo](https://inspirehep.net/authors/1423019?ui-citation-summary=true) about the autocorrelation project. We proposed some specific light sources to calculate. Besides, [Yehui Hou](https://inspirehep.net/authors/2052049?ui-citation-summary=true) found that the Eq.(8) in [2304.03826](https://inspirehep.net/literature/2650195) seems to be wrong. 
 
 - Aug 27, Tue
 
@@ -32,7 +36,7 @@ author_profile: true
 
 - Aug 23, Fri
 
-	- Attended the group meeting of [Prof. Shi Pi](https://stonepi.github.io).
+	- Attended the group meeting of [Prof. Shi Pi](https://stonepi.github.io). He told me that factor of 2 comes from the two polarization modes of the GW.
 
 - Aug 22, Thu
 
