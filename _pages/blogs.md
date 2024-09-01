@@ -10,6 +10,10 @@ author_profile: true
 
 2024
 --------------
+- Aug 31, Sat
+
+	- Came up with a hotspot imaging approach.
+
 - Aug 30, Fri
 
 	- Attended the group meeting of [Prof. Shi Pi](https://stonepi.github.io).

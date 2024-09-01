@@ -29,11 +29,13 @@ Gossip
 
 Some alumni who share my supervisor discussed our academic lineage in a Wechat group. 
 
-They said it's like: Peng Huanwu - Zhou Guangzhao - Wu Ke - Chen Bin - us.
-
-And I found that the PhD advisor of Peng Huanwu is Max Born.
+They said it's like: Max Born - Peng Huanwu - Zhou Guangzhao - Wu Ke - Chen Bin - us.
 
 - Aug 16
 
-An impressive statement. Regarding the project that a student look down to, Prof. Shi Pi said, "do you have to go for the Nobel Prize for every paper?"
+Regarding the project that a student look down to, Prof. Shi Pi said, 
+
+*"Do you have to go for the Nobel Prize for every paper?"* 
+
+Impressive to me.
  
