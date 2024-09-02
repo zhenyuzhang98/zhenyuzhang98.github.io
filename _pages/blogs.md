@@ -10,6 +10,10 @@ author_profile: true
 
 2024
 --------------
+- Sept 2, Mon
+
+	- Struggled with the autocorrelation project. I found that Eq. (99) mentioned in [2211.07469](https://inspirehep.net/literature/2181872) is not included in the publicly available [*inoisy*](https://github.com/AFD-Illinois/inoisy/tree/master) or [*AART*](https://github.com/iAART/aart) code, so I need to generate the envelope data from the raw data myself.
+
 - Sept 1, Sun
 
 	- Wrote a code about the idea mentioned yesterday. I want to do some work about the three-ball model.
