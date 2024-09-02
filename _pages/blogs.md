@@ -10,6 +10,10 @@ author_profile: true
 
 2024
 --------------
+- Sept 1, Sun
+
+	- Wrote a code about the idea mentioned yesterday. I want to do some work about the three-ball model.
+
 - Aug 31, Sat
 
 	- Came up with a hotspot imaging approach.
