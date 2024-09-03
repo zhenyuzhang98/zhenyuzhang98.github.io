@@ -3,7 +3,7 @@ title: "Image of a Kerr-Melvin black hole with a thin accretion disk"
 collection: publications
 permalink: /publication/arxiv-2206-13744
 excerpt: 'This paper is about the image of a strong magnetized black hole with a thin accretion disk.'
-date: 2022-09-15
+date: 2022-06-28
 venue: 'Physical Review D'
 paperurl: 'https://arxiv.org/pdf/2206.131744'
 citation: 'Yehui Hou, <b>Zhenyu Zhang</b>, Haopeng Yan, Minyong Guo, and Bin Chen, <i>Phys. Rev. D</i>, 106 (2022) 6, 064058'

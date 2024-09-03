@@ -3,7 +3,7 @@ title: "Electromagnetic effects on charged particles in a near-horizon-extreme-K
 collection: publications
 permalink: /publication/arxiv-2301-08467
 excerpt: 'This paper is about the classification of orbits of charged particles in a symmetric electromagnetic field within the NHEK geometry.'
-date: 2023-06-09
+date: 2023-01-20
 venue: 'Physical Review D'
 paperurl: 'https://arxiv.org/pdf/2301.08467'
 citation: 'Yehui Hou, <b>Zhenyu Zhang</b>, Haopeng Yan, Minyong Guo, and Bin Chen, <i>Phys. Rev. D</i>, 107 (2023) 12, 124014'

@@ -3,7 +3,7 @@ title: "Shadows of Kerr black holes with a Gaussian-distributed plasma in the po
 collection: publications
 permalink: /publication/arxiv-2206-04430
 excerpt: 'This paper is about the impact of refraction effects of axisymmetrically distributed plasma on the shadow of a Kerr black hole.'
-date: 2023-01-15
+date: 2022-06-09
 venue: 'Physical Review D'
 paperurl: 'https://arxiv.org/pdf/2206.04430'
 citation: '<b>Zhenyu Zhang</b>, Haopeng Yan, Minyong Guo, and Bin Chen, <i>Phys. Rev. D</i>, 107 (2023) 2, 024027'
