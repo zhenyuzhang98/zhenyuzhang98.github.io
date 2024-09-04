@@ -10,6 +10,12 @@ author_profile: true
 
 2024
 --------------
+- Sept 4, Wed
+
+	- Attended the group meeting of [Prof. Bin Chen](https://inspirehep.net/authors/1013901?ui-citation-summary=true). The speaker of this time was Ho-Yun YuChih. She mainly talked about the energy extraction from a Kerr black hole via magnetic reconnection.
+
+	- Ran the raytracing code for the hotspot movie. 	
+
 - Sept 3, Tue
 
 	- Struggled with the autocorrelation project. I changed the [*inoisy*](https://github.com/AFD-Illinois/inoisy/tree/master) code to generate the SU's envelope data.
@@ -20,7 +26,9 @@ author_profile: true
 
 - Sept 1, Sun
 
-	- Wrote a code about the idea mentioned yesterday. I want to do some work about the three-ball model.
+	- Wrote a code about the idea mentioned yesterday.
+
+	- Started to do some work about the three-ball model.
 
 - Aug 31, Sat
 
@@ -36,7 +44,8 @@ author_profile: true
 
 - Aug 28, Wed
 
-	- Discussed with [Prof. Yosuke Mizuno](https://web.tdli.sjtu.edu.cn/mizuno/) and [Prof. Minyong Guo](https://inspirehep.net/authors/1423019?ui-citation-summary=true) about the autocorrelation project. We proposed some specific light sources to calculate. Besides, [Yehui Hou](https://inspirehep.net/authors/2052049?ui-citation-summary=true) found that the Eq.(8) in [2304.03826](https://inspirehep.net/literature/2650195) seems to be wrong. 
+	- Discussed with [Prof. Yosuke Mizuno](https://web.tdli.sjtu.edu.cn/mizuno/) and [Prof. Minyong Guo](https://inspirehep.net/authors/1423019?ui-citation-summary=true) about the autocorrelation project. We proposed some specific light sources to calculate.
+	- Discussed with [Yehui Hou](https://inspirehep.net/authors/2052049?ui-citation-summary=true). He found that the Eq.(8) in [2304.03826](https://inspirehep.net/literature/2650195) seems to be wrong. 
 
 - Aug 27, Tue
 
