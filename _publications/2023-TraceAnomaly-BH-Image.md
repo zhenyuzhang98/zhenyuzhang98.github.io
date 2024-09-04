@@ -1,7 +1,7 @@
 ---
 title: "Observational signatures of rotating black holes in the semiclassical gravity with trace anomaly"
 collection: publications
-permalink: /publication/arxiv-2305.14924
+permalink: /publication/arxiv-2305-14924
 excerpt: 'This paper is about the image and shadow of a rotating black hole in the semiclassical gravity with type-A trace anomaly.'
 date: 2023-05-24
 venue: 'Chinese Physics C'

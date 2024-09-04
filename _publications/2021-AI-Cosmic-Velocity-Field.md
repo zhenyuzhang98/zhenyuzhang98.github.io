@@ -1,11 +1,11 @@
 ---
 title: "Cosmic Velocity Field Reconstruction Using AI"
 collection: publications
-permalink: /publication/arxiv-2021-05-18
+permalink: /publication/arxiv-2105-09450
 excerpt: 'This paper is about reconstructing cosmological large-scale structure velocity field by deep learning.'
 date: 2021-05-18
 venue: 'Astrophysical Journal'
-paperurl: 'https://arxiv.org/pdf/2021.09450'
+paperurl: 'https://arxiv.org/pdf/2105.09450'
 citation: 'Ziyong Wu, <b>Zhenyu Zhang</b>, Shuyang Pan et al., <i>Astrophys. J.</i>, 913 (2021) 1, 2'
 ---
 

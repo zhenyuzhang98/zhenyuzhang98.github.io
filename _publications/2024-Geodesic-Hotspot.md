@@ -1,7 +1,7 @@
 ---
 title: "Images and flares of geodesic hot spots around a Kerr black hole"
 collection: publications
-permalink: /publication/arxiv-2402.16293
+permalink: /publication/arxiv-2402-16293
 excerpt: 'This paper is about images and flares of hotspots in different types of geodesics.'
 date: 2024-02-25
 venue: 'Physical Review D'
