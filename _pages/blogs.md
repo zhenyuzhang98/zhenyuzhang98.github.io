@@ -10,6 +10,12 @@ author_profile: true
 
 2024
 --------------
+- Sept 5, Thu
+
+	- Discussed with [Prof. Bin Chen](https://inspirehep.net/authors/1013901?ui-citation-summary=true), [Prof. Minyong Guo](https://inspirehep.net/authors/1423019?ui-citation-summary=true) and [Yehui Hou](https://inspirehep.net/authors/2052049?ui-citation-summary=true) about the business trip to Shanghai.
+
+	- Discussed with Xinyu Wang about the three-ball idea.
+
 - Sept 4, Wed
 
 	- Attended the group meeting of [Prof. Bin Chen](https://inspirehep.net/authors/1013901?ui-citation-summary=true). The speaker of this time was Ho-Yun YuChih. She mainly talked about the energy extraction from a Kerr black hole via magnetic reconnection.
