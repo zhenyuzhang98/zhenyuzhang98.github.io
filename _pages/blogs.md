@@ -10,9 +10,17 @@ author_profile: true
 
 2024
 --------------
+- Sept 10, Tue
+
+	- Calculated the three local maximum of the Sgr A\* intensity data.
+
+- Sept 9, Mon
+
+	- Discussed with Xinyu Wang about the three-ball project. Tranferred the Sgr A\* image into data using Python.
+
 - Sept 8, Sun
 
-	- Wrote a code for generate hospot movie by the intensity data. Tried to obtain the intensity data of the EHT Sgr A\* observation.
+	- Wrote a code for generate hotspot movie by the intensity data. Tried to obtain the intensity data of the EHT Sgr A\* observation.
 
 - Sept 7, Sat
 
