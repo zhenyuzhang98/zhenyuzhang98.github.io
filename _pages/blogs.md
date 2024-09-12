@@ -10,6 +10,10 @@ author_profile: true
 
 2024
 --------------
+- Sept 11, Wed
+
+	-  Attended the group meeting of [Prof. Bin Chen](https://inspirehep.net/authors/1013901?ui-citation-summary=true). The speaker of this time was [Yu Song](https://inspirehep.net/authors/2810992?ui-citation-summary=true). He mainly talked about.
+
 - Sept 10, Tue
 
 	- Calculated the three local maximum of the Sgr A\* intensity data.

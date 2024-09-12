@@ -16,10 +16,9 @@ Education
 
 Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* September 2021 - now: Black hole images
+  * Supervisor: [Prof. Bin Chen](https://inspirehep.net/authors/1013901?ui-citation-summary=true)
+  * 
 
 * Fall 2015: Research Assistant
   * Github University
