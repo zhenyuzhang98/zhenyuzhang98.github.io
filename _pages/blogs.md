@@ -12,7 +12,7 @@ author_profile: true
 --------------
 - Sept 11, Wed
 
-	-  Attended the group meeting of [Prof. Bin Chen](https://inspirehep.net/authors/1013901?ui-citation-summary=true). The speaker of this time was [Yu Song](https://inspirehep.net/authors/2810992?ui-citation-summary=true). He mainly talked about.
+	-  Attended the group meeting of [Prof. Bin Chen](https://inspirehep.net/authors/1013901?ui-citation-summary=true). The speaker of this time was [Yu Song](https://inspirehep.net/authors/2810992?ui-citation-summary=true). He mainly talked about nonlinear photon-plasma interaction and the black hole superradiant instability in the paper [2306.12490](https://inspirehep.net/literature/2670823).
 
 - Sept 10, Tue
 
