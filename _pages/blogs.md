@@ -10,13 +10,21 @@ author_profile: true
 
 2024
 --------------
+- Sept 15, Sun
+
+	- Did housework for a whole day.
+
+- Sept 14, Sat
+
+	- Discussed with Xinyu Wang about the PA defined in EHT's papers.
+
 - Sept 13, Fri
 
 	- Attended the group meeting of [Prof. Shi Pi](https://stonepi.github.io).
 
 - Sept 12, Thu
 
-	-
+	- Tried to trace the source position of the three balls.
 
 - Sept 11, Wed
 

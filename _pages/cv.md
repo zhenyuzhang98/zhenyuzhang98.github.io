@@ -18,8 +18,8 @@ Research experience
 ======
 * September 2021 - Present: Black hole images
   * Supervisor: [Prof. Bin Chen](https://inspirehep.net/authors/1013901?ui-citation-summary=true)
-  * Calculated black hole images using the backward ray-tracing method, considering various light sources such as accretion disks, hotspots and jets.
-  * Investigated polarized imaging near black holes.
+  * Calculated black hole images using the general relativistic ray-tracing (GRRT) method, considering various light sources such as accretion disks, hotspots and jets.
+  * Investigated black hole shadow and polarization patterns.
   * Explored charged particle dynamics near black holes.
   * Developed an analytical morphological model of the accretion disk and funnel wall.
 
