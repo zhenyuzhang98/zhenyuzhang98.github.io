@@ -10,6 +10,18 @@ author_profile: true
 
 2024
 --------------
+- Sept 18, Wed
+
+	- Tried to calculate the autocorrelation of a hotspot movie. 
+
+- Sept 17, Tue
+	
+	- Prepared postdoc application materials.	
+
+- Sept 16, Mon
+
+	- Did housework for a whole day.	
+
 - Sept 15, Sun
 
 	- Did housework for a whole day.
