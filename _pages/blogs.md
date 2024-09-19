@@ -10,6 +10,10 @@ author_profile: true
 
 2024
 --------------
+- Sept 19, Thu
+
+	- Attended the group meeting of [Prof. Bin Chen](https://inspirehep.net/authors/1013901?ui-citation-summary=true). The speaker of this time was [Zezhou Hu](https://inspirehep.net/authors/2721583?ui-citation-summary=true). He talked about Carrollian superstring theory.
+
 - Sept 18, Wed
 
 	- Tried to calculate the autocorrelation of a hotspot movie. 
