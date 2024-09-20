@@ -29,7 +29,9 @@ Gossip
 
 Some alumni who share my supervisor discussed our academic lineage in a Wechat group. 
 
-They said it's like: Max Born - Peng Huanwu - Zhou Guangzhao - Wu Ke - Chen Bin - us.
+They said it's like: Max Born - Peng Huanwu - Zhou Guangzhao (Kuang-chao Chou) - Wu Ke - Chen Bin - us.
+
+(I think that is doubtful since I found the supervisor of Wu Ke might be Lu Qikeng. So it might be : Hua Luogeng - Lu Qikeng - Wu Ke)
 
 - Aug 16
 
