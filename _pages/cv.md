@@ -29,7 +29,7 @@ Research experience
   * Attemptted to constrain the energy density of SIGWs using the sensitivity curves of future GW detectors, and thereby curb the PBH abundance.
 
 * October 2018 - August 2020: Cosmological large-scale structure
-  * Supervisor: [Prof. Xiao-dong Li](https://inspirehep.net/authors/1024776?ui-citation-summary=true)
+  * Supervisor: [Prof. Xiao-Dong Li](https://inspirehep.net/authors/1024776?ui-citation-summary=true)
   * Used tomographic Alcock-Paczynski test with non-parametric statistical methods to reconstruct the dark energy equation of state parameter.
   * Developed a deep-learning technique to infer nonlinear velocity fields from dark matter density.
 

@@ -10,6 +10,10 @@ author_profile: true
 
 2024
 --------------
+- Sept 21, Sat
+
+	-
+
 - Sept 20, Fri
 
 	- Discussed with Zhixing Zhao about hotspot raytracing. 
