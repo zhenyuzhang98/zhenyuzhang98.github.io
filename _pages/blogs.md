@@ -10,9 +10,13 @@ author_profile: true
 
 2024
 --------------
+- Sept 21, Sun
+
+	- Finished the code mentioned yesterday.
+
 - Sept 21, Sat
 
-	-
+	- Tried to write a mathematica raytracing code for inoisy. 
 
 - Sept 20, Fri
 
