@@ -54,7 +54,7 @@ Programming Skills
   * Python
   * Linux
 * Familiar with 
-  * C
+  * C/C++
 * With some basic knowledge of 
   * Julia
   * Fortran
