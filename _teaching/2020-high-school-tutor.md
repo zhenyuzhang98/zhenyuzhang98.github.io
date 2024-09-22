@@ -4,6 +4,7 @@ collection: teaching
 permalink: /teaching/high-school-tutor
 type: "high school physics"
 venue: "Zhangmen One-on-One Tutoring Company"
+date: 2020-03-01
 location: "Beijing, China"
 ---
 
