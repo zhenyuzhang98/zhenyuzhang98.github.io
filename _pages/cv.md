@@ -18,20 +18,20 @@ Research experience
 ======
 * September 2021 - Present: Black hole images
   * Supervisor: [Prof. Bin Chen](https://inspirehep.net/authors/1013901?ui-citation-summary=true)
-  * Calculated black hole images using the general relativistic ray-tracing (GRRT) method, considering various light sources such as accretion disks, hotspots and jets.
+  * Calculated black hole images using the general relativistic ray-tracing (GRRT) method, considering different astronomical environments, various light sources such as accretion disks, hotspots and jets.
   * Investigated black hole shadow and polarization patterns.
-  * Explored charged particle dynamics near black holes.
+  * Explored charged particle dynamics around magnetized black holes.
   * Developed an analytical morphological model of the accretion disk and funnel wall.
+  * Investigating the autocorrelation of black hole movies using dynamic light sources in order to extract physical information of the black hole or its accretion disk. (Ongoing project)
 
 * August 2023 - Present: Primordial black holes and the early universe
   * Supervisor: [Prof. Shi Pi](https://stonepi.github.io)
-  * Developed programs to calculate PBH abundance using the extended Press-Schechter and the peak theory method respectively. 
-  * Attemptted to constrain the energy density of SIGWs using the sensitivity curves of future GW detectors, and thereby curb the PBH abundance.
+  * Calculating the abundance of PBHs using both the extended Press-Schechter approach and peak theory, and constraining it with future gravitational wave detectors. (Ongoing project)
 
 * October 2018 - August 2020: Cosmological large-scale structure
   * Supervisor: [Prof. Xiao-Dong Li](https://inspirehep.net/authors/1024776?ui-citation-summary=true)
-  * Used tomographic Alcock-Paczynski test with non-parametric statistical methods to reconstruct the dark energy equation of state parameter.
-  * Developed a deep-learning technique to infer nonlinear velocity fields from dark matter density.
+  * Used the tomographic Alcock-Paczynski test with non-parametric statistical methods to reconstruct the dark energy equation of state parameter.
+  * Developed a deep learning technique to infer the dark matter nonlinear velocity field from its density field.
 
 Teaching experience
 ======
