@@ -10,6 +10,22 @@ author_profile: true
 
 2024
 --------------
+- Sept 25, Thu
+
+	-
+
+- Sept 24, Wed
+
+	- Conceived the PhD thesis.
+
+- Sept 23, Tue
+
+	- Prepared application materials.
+
+- Sept 22, Mon
+
+	- Ran raytracing code for different radius hotspots on the workstation in the office. 
+
 - Sept 21, Sun
 
 	- Finished the code mentioned yesterday.
