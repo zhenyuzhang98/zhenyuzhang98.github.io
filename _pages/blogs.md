@@ -10,23 +10,25 @@ author_profile: true
 
 2024
 --------------
-- Sept 25, Thu
+- Sept 26, Thu
 
-	-
+	- Improved the inoisy raytracing code to speed up. 
 
-- Sept 24, Wed
+- Sept 25, Wed
+
+	- Found a bug of the non-equatorial hotspot raytracing code.
+
+- Sept 24, Tue
 
 	- Conceived the PhD thesis.
-
-- Sept 23, Tue
-
+	
 	- Prepared application materials.
 
-- Sept 22, Mon
+- Sept 23, Mon
 
 	- Ran raytracing code for different radius hotspots on the workstation in the office. 
 
-- Sept 21, Sun
+- Sept 22, Sun
 
 	- Finished the code mentioned yesterday.
 
