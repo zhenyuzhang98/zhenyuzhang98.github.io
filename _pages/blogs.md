@@ -10,6 +10,10 @@ author_profile: true
 
 2024
 --------------
+- Sept 27, Fri
+
+	- Finished the code mentioned yesterday and started to run the code.
+
 - Sept 26, Thu
 
 	- Improved the inoisy raytracing code to speed up. 
