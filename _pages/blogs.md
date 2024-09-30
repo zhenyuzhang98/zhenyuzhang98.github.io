@@ -16,11 +16,11 @@ author_profile: true
  
 - Sept 29, Sun
 
-	- Translate the autocorrelation calculation code from python into C. The speed is dozens of times faster than before. 
+	- Translated the autocorrelation calculation code from python into C. The speed is dozens of times faster than before. 
 
 - Sept 28, Sat
 
-	- Obtained some interesting results about the hotspot autocorrelation. The effect of secondary image is shown. 
+	- Obtained some interesting results about the hotspot autocorrelation. The effect of secondary image was shown. 
 
 - Sept 27, Fri
 
