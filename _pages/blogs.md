@@ -10,6 +10,18 @@ author_profile: true
 
 2024
 --------------
+- Sept 30, Mon
+
+	- Discussed with [Prof. Minyong Guo](https://inspirehep.net/authors/1423019?ui-citation-summary=true) about the autocorrelation results.
+ 
+- Sept 29, Sun
+
+	- Translate the autocorrelation calculation code from python into C. The speed is dozens of times faster than before. 
+
+- Sept 28, Sat
+
+	- Obtained some interesting results about the hotspot autocorrelation. The effect of secondary image is shown. 
+
 - Sept 27, Fri
 
 	- Finished the code mentioned yesterday and started to run the code.
