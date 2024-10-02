@@ -10,6 +10,10 @@ author_profile: true
 
 2024
 --------------
+- Oct 1, Tue
+
+	- Organized the results of hotspot autocorrelation.
+
 - Sept 30, Mon
 
 	- Discussed with [Prof. Minyong Guo](https://inspirehep.net/authors/1423019?ui-citation-summary=true) about the autocorrelation results.
