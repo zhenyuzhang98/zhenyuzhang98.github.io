@@ -12,12 +12,12 @@ author_profile: true
 --------------
 - Oct 2, Wed
 
-	- Calculated autocorrelation for different radius hotspot.
+	- Organized the results of the hotspot autocorrelation. The position of the fixed point shows some deviation from the theoretical calculation in [2010.03683](https://inspirehep.net/literature/1821966). It is speculated that this may be due to the secondary image being insufficient for applying the near-photon ring approximation.
 
 - Oct 1, Tue
-
-	- Organized the results of hotspot autocorrelation.
-
+	
+	- Calculated autocorrelation for different radius hotspots.
+	
 - Sept 30, Mon
 
 	- Discussed with [Prof. Minyong Guo](https://inspirehep.net/authors/1423019?ui-citation-summary=true) about the autocorrelation results.
