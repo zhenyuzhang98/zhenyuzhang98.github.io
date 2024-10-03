@@ -10,6 +10,10 @@ author_profile: true
 
 2024
 --------------
+- Oct 2, Wed
+
+	- Calculated autocorrelation for different radius hotspot.
+
 - Oct 1, Tue
 
 	- Organized the results of hotspot autocorrelation.
