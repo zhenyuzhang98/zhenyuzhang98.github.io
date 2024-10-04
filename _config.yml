@@ -39,6 +39,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   inspire          : "https://inspirehep.net/authors/1744398?ui-citation-summary=true"
+  adsabs           : "https://ui.adsabs.harvard.edu/user/libraries/zQyowj8WRr6XvSmKyFiJqg"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
