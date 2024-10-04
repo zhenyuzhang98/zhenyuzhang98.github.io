@@ -10,6 +10,12 @@ author_profile: true
 
 2024
 --------------
+- Oct 3, Thu
+
+	- Discussed with [Prof. Minyong Guo](https://inspirehep.net/authors/1423019?ui-citation-summary=true) and [Yehui Hou](https://inspirehep.net/authors/2052049?ui-citation-summary=true) about the physical explanation of the autocorrelation results.
+
+	- Prepared application materials.
+
 - Oct 2, Wed
 
 	- Organized the results of the hotspot autocorrelation. The position of the fixed point shows some deviation from the theoretical calculation in [2010.03683](https://inspirehep.net/literature/1821966). It is speculated that this may be due to the secondary image being insufficient for applying the near-photon ring approximation.
