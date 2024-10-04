@@ -12,4 +12,3 @@ During the final phase of my undergraduate studies and the early stage of my doc
 
 Additionally, I took and passed the Chinese High School Teacher Qualification Examination in 2021.
 
-I am very passionate about teaching others. 
