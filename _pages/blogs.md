@@ -10,6 +10,12 @@ author_profile: true
 
 2024
 --------------
+- Oct 4, Fri
+
+	- Continued producing the autocorrelation results for subsequent physical analysis.
+	
+	- Struggled with application materials.
+ 
 - Oct 3, Thu
 
 	- Discussed with [Prof. Minyong Guo](https://inspirehep.net/authors/1423019?ui-citation-summary=true) and [Yehui Hou](https://inspirehep.net/authors/2052049?ui-citation-summary=true) about the physical explanation of the autocorrelation results.
