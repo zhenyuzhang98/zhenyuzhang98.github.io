@@ -10,6 +10,12 @@ author_profile: true
 
 2024
 --------------
+- Oct 5, Sat
+
+        - Continued producing the autocorrelation results for subsequent physical analysis.
+
+        - Struggled with application materials.
+
 - Oct 4, Fri
 
 	- Continued producing the autocorrelation results for subsequent physical analysis.
