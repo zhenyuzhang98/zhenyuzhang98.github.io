@@ -10,11 +10,15 @@ author_profile: true
 
 2024
 --------------
+- Oct 6, Sun
+
+	- Finished producing preliminary results of the autocorrelation project.
+
 - Oct 5, Sat
-
-        - Continued producing the autocorrelation results for subsequent physical analysis.
-
-        - Struggled with application materials.
+	
+	- Continued producing the autocorrelation results for subsequent physical analysis.
+	
+	- Struggled with application materials.
 
 - Oct 4, Fri
 
