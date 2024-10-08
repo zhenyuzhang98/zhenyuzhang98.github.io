@@ -10,6 +10,13 @@ author_profile: true
 
 2024
 --------------
+
+- Oct 7, Mon
+
+	- Prepared application materials.
+
+	- Thought about the reason for the immobility points.
+
 - Oct 6, Sun
 
 	- Finished producing preliminary results of the autocorrelation project.
