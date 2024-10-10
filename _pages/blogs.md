@@ -10,6 +10,13 @@ author_profile: true
 
 2024
 --------------
+- Oct 9, Wed
+
+	- Discussed with Xiangyu Wang about MCMC.
+
+- Oct 8, Tue
+
+	- Prepared application materials.
 
 - Oct 7, Mon
 
