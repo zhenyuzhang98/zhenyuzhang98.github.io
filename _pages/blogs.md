@@ -10,6 +10,10 @@ author_profile: true
 
 2024
 --------------
+- Oct 10, Thu
+
+	- Read the note of the binary shadow written by [Yu Song](https://inspirehep.net/authors/2810992?ui-citation-summary=true).
+
 - Oct 9, Wed
 
 	- Discussed with Xiangyu Wang about MCMC.
