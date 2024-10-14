@@ -2,7 +2,7 @@
 title: "Cosmic Velocity Field Reconstruction Using AI"
 collection: publications
 permalink: /publication/arxiv-2105-09450
-excerpt: 'This paper is about reconstructing cosmological large-scale structure velocity field by deep learning.'
+excerpt: 'This paper is about reconstructing cosmological large-scale structure velocity field by deep learning. Besides, it was featured in the daily astronomy section of the [Astrobite](https://astrobites.org/2021/05/26/a-peculiar-use-of-ai-predicting-cosmic-velocities-with-neural-networks/) website.'
 date: 2021-05-18
 venue: 'Astrophysical Journal'
 paperurl: 'https://arxiv.org/pdf/2105.09450'

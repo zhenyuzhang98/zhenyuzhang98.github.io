@@ -12,7 +12,7 @@ author_profile: true
 --------------
 - Oct 13, Sun
 
-	- Started to write the note of autocorrelation.
+	- Started to write the note for the autocorrelation project.
 
 - Oct 12, Sat
 
@@ -20,7 +20,7 @@ author_profile: true
 
 - Oct 11, Fri
 
-	- Discussed with [Prof. Minyong Guo](https://inspirehep.net/authors/1423019?ui-citation-summary=true) and [Yehui Hou](https://inspirehep.net/authors/2052049?ui-citation-summary=true) about autocorrelation project.
+	- Discussed with [Prof. Minyong Guo](https://inspirehep.net/authors/1423019?ui-citation-summary=true) and [Yehui Hou](https://inspirehep.net/authors/2052049?ui-citation-summary=true) about the autocorrelation project.
 
 - Oct 10, Thu
 
