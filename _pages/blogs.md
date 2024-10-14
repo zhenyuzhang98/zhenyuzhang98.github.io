@@ -10,6 +10,18 @@ author_profile: true
 
 2024
 --------------
+- Oct 13, Sun
+
+	- Started to write the note of autocorrelation.
+
+- Oct 12, Sat
+
+	- Prepared application materials. 
+
+- Oct 11, Fri
+
+	- Discussed with [Prof. Minyong Guo](https://inspirehep.net/authors/1423019?ui-citation-summary=true) and [Yehui Hou](https://inspirehep.net/authors/2052049?ui-citation-summary=true) about autocorrelation project.
+
 - Oct 10, Thu
 
 	- Read the note of the binary shadow written by [Yu Song](https://inspirehep.net/authors/2810992?ui-citation-summary=true).
