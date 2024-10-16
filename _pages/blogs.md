@@ -10,6 +10,16 @@ author_profile: true
 
 2024
 --------------
+- Oct 16, Wed
+
+- Oct 15, Tue
+
+	- Attended the group meeting of [Prof. Shi Pi](https://stonepi.github.io).
+
+- Oct 14, Mon
+
+	- Prepared application materials. 
+ 
 - Oct 13, Sun
 
 	- Started to write the note for the autocorrelation project.
