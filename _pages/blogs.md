@@ -10,7 +10,13 @@ author_profile: true
 
 2024
 --------------
+- Oct 17, Thu
+
+	- Discussed with [Prof. Bin Chen](https://inspirehep.net/authors/1013901?ui-citation-summary=true), [Prof. Minyong Guo](https://inspirehep.net/authors/1423019?ui-citation-summary=true), [Yehui Hou](https://inspirehep.net/authors/2052049?ui-citation-summary=true) and [Yu Song](https://inspirehep.net/authors/2810992?ui-citation-summary=true) about on-going projects and future plans.   
+
 - Oct 16, Wed
+
+	- Tried to acheive the place of the fixed points in autocorrelation figures using Python. 
 
 - Oct 15, Tue
 
