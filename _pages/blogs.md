@@ -10,6 +10,16 @@ author_profile: true
 
 2024
 --------------
+- Oct 19, Sat
+
+	- Took a rest due to ailment.
+ 
+- Oct 18, Fri
+
+	- Attended a seminar by Prof. Sébastien Clesse at ITP, CAS. The title was "could primordial black holes with an extended mass distribution explain the dark matter and gravitational-wave observations".
+	
+	- Discussed with [Yu Song](https://inspirehep.net/authors/2810992?ui-citation-summary=true) about the binary shadow project.
+
 - Oct 17, Thu
 
 	- Discussed with [Prof. Bin Chen](https://inspirehep.net/authors/1013901?ui-citation-summary=true), [Prof. Minyong Guo](https://inspirehep.net/authors/1423019?ui-citation-summary=true), [Yehui Hou](https://inspirehep.net/authors/2052049?ui-citation-summary=true) and [Yu Song](https://inspirehep.net/authors/2810992?ui-citation-summary=true) about on-going projects and future plans.   
