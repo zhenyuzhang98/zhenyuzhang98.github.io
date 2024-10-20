@@ -10,6 +10,10 @@ author_profile: true
 
 2024
 --------------
+- Oct 20, Sun
+
+	- Wrote the autocorrelation note.
+
 - Oct 19, Sat
 
 	- Took a rest due to ailment.
@@ -252,7 +256,7 @@ author_profile: true
 
 - Aug 26, Mon
 
-	- Visited TDLI, SJTU. Learned a lot from [Prof. Yosuke Mizuno](https://web.tdli.sjtu.edu.cn/mizuno/). He is a knowledgeable person with a passion for academia, and he is very hospitable. We also discussed with [Prof. Yosuke Mizuno](https://web.tdli.sjtu.edu.cn/mizuno/) and his group members. I talked about our previous papers and now the preliminary results of autocorrelation. There are still many open questions about the image of Sgr A\*.     
+	- Visited TDLI, SJTU. Learned a lot from [Prof. Yosuke Mizuno](https://web.tdli.sjtu.edu.cn/mizuno/). He is a knowledgeable and hospitable person with a passion for academia. We also discussed with his group members. I talked about our previous papers and now the preliminary results of autocorrelation. There are still many open questions about the image of Sgr A\*.     
 
 - Aug 25, Sun
 
