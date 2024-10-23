@@ -10,6 +10,18 @@ author_profile: true
 
 2024
 --------------
+- Oct 23, Wed
+
+	- Read the relevant papers and wrote the autocorrelation note.
+
+- Oct 22, Tue
+
+	- Wrote the autocorrelation note.
+
+- Oct 21, Mon
+
+	- Attend the group meeting of [Prof. Minyong Guo](https://inspirehep.net/authors/1423019?ui-citation-summary=true) and gave an informal talk.
+
 - Oct 20, Sun
 
 	- Wrote the autocorrelation note.
