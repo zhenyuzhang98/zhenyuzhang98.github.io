@@ -10,6 +10,22 @@ author_profile: true
 
 2024
 --------------
+- Oct 27, Sun
+
+	- Wrote the autocorrelation note.
+
+- Oct 26, Sat
+
+	- Went to the national museum with my wife.
+
+- Oct 25, Fri
+
+	- Ajusted the result figures in the autocorrelation note. 
+
+- Oct 24, Thu
+
+	- Obtained the fixed point.
+
 - Oct 23, Wed
 
 	- Read the relevant papers and wrote the autocorrelation note.
