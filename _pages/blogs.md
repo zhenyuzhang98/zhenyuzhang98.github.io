@@ -10,6 +10,14 @@ author_profile: true
 
 2024
 --------------
+- Nov 6, Wed
+
+	- Prepared the presentation for the upcoming black hole imaging workshop in Changsha, Hunan.
+
+- Nov 5, Tue
+
+	- Discussed with [Yehui Hou](https://inspirehep.net/authors/2052049?ui-citation-summary=true) and [Yu Song](https://inspirehep.net/authors/2810992?ui-citation-summary=true) about the review comments on the hotspot polarization imaging paper [2407.14897](https://inspirehep.net/literature/2810002).
+
 - Nov 4, Mon
 
 	- Attended the group meeting of [Prof. Shi Pi](https://stonepi.github.io).
