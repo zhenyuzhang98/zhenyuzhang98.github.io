@@ -10,6 +10,34 @@ author_profile: true
 
 2024
 --------------
+- Nov 13, Wed
+
+	- Began to run [BHAC](https://bhac.science/).
+
+- Nov 12, Tue
+
+	- Tried to run [BHAC](https://bhac.science/) in [PKU's supercomputing platform](https://hpc.pku.edu.cn/ug/).
+
+- Nov 11, Mon
+
+	- Went back to Beijing.
+
+- Nov 10, Sun
+
+	- Gave the talk about the autocorrelation of black hole movies. 
+
+	- Discussed with many people.
+
+- Nov 9, Sat
+
+	- Attended the workshop and listened to the presentations.
+
+	- Prepared the talk.
+
+- Nov 8, Fri
+
+	- Arrived Changsha, Hunan.	
+
 - Nov 6, Wed
 
 	- Prepared the presentation for the upcoming black hole imaging workshop in Changsha, Hunan.
