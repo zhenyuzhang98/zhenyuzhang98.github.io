@@ -10,6 +10,28 @@ author_profile: true
 
 2024
 --------------
+- Nov 20, Wed
+
+	- Did some supplementary research about the paper mentioned yesterday.
+
+- Nov 19, Tue
+
+	- Discussed with [Yehui Hou](https://inspirehep.net/authors/2052049?ui-citation-summary=true) and [Yu Song](https://inspirehep.net/authors/2810992?ui-citation-summary=true) about the review comments on the hotspot polarization imaging paper [2407.14897](https://inspirehep.net/literature/2810002). 
+
+- Nov 18, Mon
+
+	- Went to BNU and listened to the talk of Minyuan Zhang from TDLI.
+
+	- The [BHAC](https://bhac.science/) code seems to be slow with gfortran. Tried to use ifort. 
+
+- Nov 17, Sun
+
+	- Discussed with Wencong Hong about the PBH abundance calculation.
+
+- Nov 14, Thu
+
+	- Wrote PhD thesis.
+
 - Nov 13, Wed
 
 	- Began to run [BHAC](https://bhac.science/).
