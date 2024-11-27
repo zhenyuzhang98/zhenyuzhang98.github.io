@@ -10,6 +10,26 @@ author_profile: true
 
 2024
 --------------
+- Nov 26, Tue
+
+	- Wrote PhD thesis. 
+
+- Nov 25, Mon
+
+	- Discussed with [Prof. Bin Chen](https://inspirehep.net/authors/1013901?ui-citation-summary=true). 
+
+- Nov 24, Sun
+	
+	- Wrote PhD thesis. 
+
+- Nov 23, Sat
+	
+	- Wrote PhD thesis. 
+
+- Nov 21, Thu
+
+	- Finished the code for supplementary research.
+
 - Nov 20, Wed
 
 	- Did some supplementary research about the paper mentioned yesterday.
