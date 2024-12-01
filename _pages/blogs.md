@@ -10,9 +10,21 @@ author_profile: true
 
 2024
 --------------
+- Nov 31, Sun
+
+	- Wrote my PhD thesis. 
+
+- Nov 29, Fri
+
+	- Discussed with [Prof. Bin Chen](https://inspirehep.net/authors/1013901?ui-citation-summary=true), [Yehui Hou](https://inspirehep.net/authors/2052049?ui-citation-summary=true) and [Yu Song](https://inspirehep.net/authors/2810992?ui-citation-summary=true) about the paper [arXiv:2410.00954](https://inspirehep.net/literature/2836714). 
+
+- Nov 27, Wed
+
+	- Wrote my PhD thesis. 
+
 - Nov 26, Tue
 
-	- Wrote PhD thesis. 
+	- Wrote my PhD thesis. 
 
 - Nov 25, Mon
 
@@ -20,11 +32,11 @@ author_profile: true
 
 - Nov 24, Sun
 	
-	- Wrote PhD thesis. 
+	- Wrote my PhD thesis. 
 
 - Nov 23, Sat
 	
-	- Wrote PhD thesis. 
+	- Wrote my PhD thesis. 
 
 - Nov 21, Thu
 
@@ -50,7 +62,7 @@ author_profile: true
 
 - Nov 14, Thu
 
-	- Wrote PhD thesis.
+	- Wrote my PhD thesis.
 
 - Nov 13, Wed
 
