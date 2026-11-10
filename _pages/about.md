@@ -1,19 +1,35 @@
 ---
 permalink: /
-title: "Biography"
+title: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-<font face="Verdana" size=4> 
-<p>Welcome to Zhenyu Zhang’s homepage.</p>
-<p>I am a postdoctoral researcher at Ningbo University. </p>
+<p class="intro-role">Currently, I am a postdoctoral researcher at Ningbo University.</p>
 
-My research interests are relativistic astrophysics and cosmology, including but not limited to black hole images, accretion disks, relativistic jets, polarimetry and astrometry of flares, particle dynamics near black holes, superradiance, test of gravitational theories, primordial black holes, cosmological perturbation theory, large-scale structure, as well as the application of machine learning in those directions.</font>
+I work on relativistic astrophysics and cosmology, with a particular interest in black holes and the early universe.
 
-Education
-------
-* <font face="Palatino" size=4> Sep 2020 - Jun 2025 <br> Ph.D. in Theoretical Physics, School of Physics, Peking University (PKU)</font>
-* <font face="Palatino" size=4> Sep 2016 - Jun 2020 <br> B.S. in Physics, School of Physics and Astronomy, Sun Yat-Sen University (SYSU)</font>
+## Education
+
+<div class="education-entry">
+  <time>SEP 2020 — JUN 2025</time>
+  <strong>Ph.D. in Theoretical Physics</strong>
+  <span>School of Physics, Peking University</span>
+</div>
+<div class="education-entry">
+  <time>SEP 2016 — JUN 2020</time>
+  <strong>B.S. in Physics</strong>
+  <span>School of Physics and Astronomy, Sun Yat-Sen University</span>
+</div>
+
+## Research interests
+
+<ul class="research-list">
+  <li><strong>Black holes and their environments.</strong> Black hole images, accretion disks, relativistic jets, and the polarimetry and astrometry of flares.</li>
+  <li><strong>Gravity and particle dynamics.</strong> Particle motion near black holes, superradiance, and tests of gravitational theories.</li>
+  <li><strong>Cosmology.</strong> Primordial black holes, cosmological perturbation theory, large-scale structure, and applications of machine learning to these topics.</li>
+</ul>
+
+Explore my [publications](/publications/), [talks](/talks/), or [curriculum vitae](/cv/) for more about my work.
