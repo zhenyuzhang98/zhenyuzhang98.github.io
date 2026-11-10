@@ -150,6 +150,7 @@ include:
   - _pages
   - files
 exclude:
+  - local
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

@@ -67,3 +67,5 @@ h1, h2, h3, h4 { color: #222d29; }
 body { cursor: auto; }
 .author__avatar, .author__content, abbr[title] { cursor: auto; }
 a, button { cursor: pointer; }
+html[lang="zh-CN"] .page__content { line-height: 1.95; }
+html[lang="zh-CN"] .page__title, html[lang="zh-CN"] .page__content h2 { font-family: Georgia, "Noto Serif CJK SC", "Songti SC", SimSun, serif; letter-spacing: 0; }
