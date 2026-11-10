@@ -9,9 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+Current position
+======
+* Postdoctoral Researcher, Ningbo University
+
 Education
 ======
-* Ph.D. in Theoretical Physics, Peking University, June 2025 (expected)
+* Ph.D. in Theoretical Physics, Peking University, 2025
 * B.S. in Physics, Sun Yat-Sen University, June 2020
 
 Research experience
