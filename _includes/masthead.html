@@ -17,6 +17,7 @@
             {% assign nav_url = link.url %}
             {% if page.lang == 'zh-CN' %}
               {% case link.url %}
+                {% when '/publications/' %}{% assign nav_title = '论文' %}{% assign nav_url = '/zh/publications/' %}
                 {% when '/talks/' %}{% assign nav_title = '报告' %}{% assign nav_url = '/zh/talks/' %}
                 {% when '/teaching/' %}{% assign nav_title = '教学' %}{% assign nav_url = '/zh/teaching/' %}
                 {% when '/cv/' %}{% assign nav_title = '简历' %}{% assign nav_url = '/zh/cv/' %}
@@ -24,7 +25,7 @@
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ nav_url }}">{{ nav_title }}</a></li>
           {% endfor %}
-          <li class="masthead__menu-item">{% if page.lang == 'zh-CN' %}<a href="{{ base_path }}{{ page.url | remove_first: '/zh' }}" lang="en" hreflang="en">English</a>{% else %}<a href="{{ base_path }}{% if page.url == '/talks/' or page.url == '/teaching/' or page.url == '/cv/' %}/zh{{ page.url }}{% else %}/zh/{% endif %}" lang="zh-CN" hreflang="zh-CN">中文</a>{% endif %}</li>
+          <li class="masthead__menu-item">{% if page.lang == 'zh-CN' %}<a href="{{ base_path }}{{ page.url | remove_first: '/zh' }}" lang="en" hreflang="en">English</a>{% else %}<a href="{{ base_path }}{% if page.url == '/publications/' or page.url == '/talks/' or page.url == '/teaching/' or page.url == '/cv/' %}/zh{{ page.url }}{% else %}/zh/{% endif %}" lang="zh-CN" hreflang="zh-CN">中文</a>{% endif %}</li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>

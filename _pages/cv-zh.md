@@ -35,7 +35,7 @@ author_bio: '目前为宁波大学博士后研究人员'
 
 ### 2018 年 10 月—2020 年 8 月：宇宙大尺度结构
 
-指导教师：[李潇东教授](https://inspirehep.net/authors/1024776?ui-citation-summary=true)。
+指导教师：[李霄栋教授](https://inspirehep.net/authors/1024776?ui-citation-summary=true)。
 
 - 结合层析 Alcock–Paczynski 检验与非参数统计方法，重构暗能量状态方程参数。
 - 开发深度学习方法，从暗物质密度场推断非线性速度场。
