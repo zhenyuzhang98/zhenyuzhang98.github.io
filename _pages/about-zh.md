@@ -6,8 +6,6 @@ author_profile: true
 author_bio: '目前为宁波大学博士后研究人员'
 ---
 
-[English](/)
-
 <p class="intro-role">我目前是宁波大学博士后研究人员。</p>
 
 我的研究方向是相对论天体物理与宇宙学，主要关注黑洞和早期宇宙。
@@ -33,4 +31,4 @@ author_bio: '目前为宁波大学博士后研究人员'
   <li><strong>宇宙学。</strong>原初黑洞、宇宙学微扰理论、大尺度结构，以及机器学习在这些方向中的应用。</li>
 </ul>
 
-更多研究工作请参阅[论文列表](/publications/)、[学术报告](/talks/)和[个人简历](/cv/)（英文）。
+更多研究工作请参阅[论文列表（英文）](/publications/)、[报告](/zh/talks/)和[简历](/zh/cv/)。

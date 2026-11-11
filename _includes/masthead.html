@@ -6,16 +6,25 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.name }}</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg">{% if page.lang == 'zh-CN' %}<a href="{{ base_path }}/zh/">张震宇</a>{% else %}<a href="{{ base_path }}/">{{ site.name }}</a>{% endif %}</li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+                        {% assign nav_title = link.title %}
+            {% assign nav_url = link.url %}
+            {% if page.lang == 'zh-CN' %}
+              {% case link.url %}
+                {% when '/talks/' %}{% assign nav_title = '报告' %}{% assign nav_url = '/zh/talks/' %}
+                {% when '/teaching/' %}{% assign nav_title = '教学' %}{% assign nav_url = '/zh/teaching/' %}
+                {% when '/cv/' %}{% assign nav_title = '简历' %}{% assign nav_url = '/zh/cv/' %}
+              {% endcase %}
+            {% endif %}
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ nav_url }}">{{ nav_title }}</a></li>
           {% endfor %}
-          <li class="masthead__menu-item">{% if page.lang == 'zh-CN' %}<a href="{{ base_path }}/" lang="en" hreflang="en">English</a>{% else %}<a href="{{ base_path }}/zh/" lang="zh-CN" hreflang="zh-CN">中文</a>{% endif %}</li>
+          <li class="masthead__menu-item">{% if page.lang == 'zh-CN' %}<a href="{{ base_path }}{{ page.url | remove_first: '/zh' }}" lang="en" hreflang="en">English</a>{% else %}<a href="{{ base_path }}{% if page.url == '/talks/' or page.url == '/teaching/' or page.url == '/cv/' %}/zh{{ page.url }}{% else %}/zh/{% endif %}" lang="zh-CN" hreflang="zh-CN">中文</a>{% endif %}</li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>

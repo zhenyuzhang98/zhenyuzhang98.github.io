@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-[中文](/zh/)
-
 <p class="intro-role">Currently, I am a postdoctoral researcher at Ningbo University.</p>
 
 I work on relativistic astrophysics and cosmology, with a particular interest in black holes and the early universe.

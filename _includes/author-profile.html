@@ -8,14 +8,14 @@
 
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}">
+      <img src="{{ author.avatar }}" alt="{% if page.lang == 'zh-CN' %}张震宇{% else %}{{ author.name }}{% endif %}">
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+      <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{% if page.lang == 'zh-CN' %}张震宇{% else %}{{ author.name }}{% endif %}">
     {% endif %}
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
+    <h3 class="author__name">{% if page.lang == 'zh-CN' %}张震宇{% else %}{{ author.name }}{% endif %}</h3>
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ page.author_bio | default: author.bio }}</p>{% endif %}
   </div>
