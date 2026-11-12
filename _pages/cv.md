@@ -45,6 +45,7 @@ Teaching experience
 
 Academic Honors
 ======
+* Outstanding Student Presentation Award in the 2025 Annual Conference of Division of Gravitation and Relativistic Astrophysics, Chinese Physical Society, April 2025.
 * Peking University President Scholarship, June 2024.
 * Peking University President Scholarship, June 2023.
 * Outstanding Student Presentation Award in the 2022 Annual Conference of Division of Gravitation and Relativistic Astrophysics, Chinese Physical Society, July 2022.
