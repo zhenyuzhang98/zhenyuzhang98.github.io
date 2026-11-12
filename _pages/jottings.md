@@ -3,6 +3,7 @@ layout: archive
 title: "Jottings"
 permalink: /jottings/
 author_profile: true
+published: false
 ---
 
 Hobbies

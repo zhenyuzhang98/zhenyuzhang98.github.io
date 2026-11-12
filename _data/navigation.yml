@@ -15,11 +15,11 @@ main:
   - title: "CV"
     url: /cv/
   
-  - title: "Blogs"
-    url: /blogs/
+  # - title: "Blogs"
+  #   url: /blogs/
   
-  - title: "Jottings"
-    url: /jottings/
+  # - title: "Jottings"
+  #   url: /jottings/
 
     #  - title: "Guide"
     #url: /markdown/

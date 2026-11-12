@@ -3,6 +3,7 @@ layout: archive
 title: "Blogs"
 permalink: /blogs/
 author_profile: true
+published: false
 ---
 
 ***Make a little progress every day.***
