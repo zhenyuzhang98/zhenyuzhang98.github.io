@@ -44,6 +44,10 @@ author_bio: '目前为宁波大学博士后研究人员'
 
 {% include zh-teaching.md %}
 
+## 学术服务
+
+担任以下期刊审稿人：*Physical Review D*（PRD）、*The European Physical Journal C*（EPJC）、*Chinese Physics C*（CPC）。
+
 ## 荣誉与奖励
 
 - 2025 年 4 月：中国物理学会引力与相对论天体物理分会年会优秀学生报告奖。

@@ -32,4 +32,8 @@ I work on relativistic astrophysics and cosmology, with a particular interest in
   <li><strong>Cosmology.</strong> Primordial black holes, cosmological perturbation theory, large-scale structure, and applications of machine learning to these topics.</li>
 </ul>
 
+## Academic service
+
+Referee for *Physical Review D* (PRD), *The European Physical Journal C* (EPJC), and *Chinese Physics C* (CPC).
+
 Explore my [publications](/publications/), [talks](/talks/), or [curriculum vitae](/cv/) for more about my work.

@@ -43,6 +43,10 @@ Teaching experience
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Academic service
+======
+Referee for *Physical Review D* (PRD), *The European Physical Journal C* (EPJC), and *Chinese Physics C* (CPC).
+
 Academic Honors
 ======
 * Outstanding Student Presentation Award in the 2025 Annual Conference of Division of Gravitation and Relativistic Astrophysics, Chinese Physical Society, April 2025.

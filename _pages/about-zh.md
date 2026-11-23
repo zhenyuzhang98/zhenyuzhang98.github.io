@@ -31,4 +31,8 @@ author_bio: '目前为宁波大学博士后研究人员'
   <li><strong>宇宙学。</strong>原初黑洞、宇宙学微扰理论、大尺度结构，以及机器学习在这些方向中的应用。</li>
 </ul>
 
+## 学术服务
+
+担任以下期刊审稿人：*Physical Review D*（PRD）、*The European Physical Journal C*（EPJC）、*Chinese Physics C*（CPC）。
+
 更多研究工作请参阅[论文列表](/zh/publications/)、[报告](/zh/talks/)和[简历](/zh/cv/)。
