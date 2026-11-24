@@ -1,6 +1,6 @@
 ---
 permalink: /zh/grants/
-title: '科研项目'
+title: '项目'
 lang: zh-CN
 author_profile: true
 author_bio: '目前为宁波大学博士后研究人员'
