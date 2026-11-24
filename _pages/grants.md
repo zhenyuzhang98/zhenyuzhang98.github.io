@@ -26,4 +26,4 @@ author_profile: true
 
 - Project number: ZJ2026086
 - Funding: CNY 50,000
-- Project period: During the postdoctoral appointment
+- Project period: October 2026 – September 2027
